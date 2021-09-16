@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 30px;
+    font-weight: 800;
+}
+.logo{
+    margin-left: 5px;
+    size: 20px;
+}
+.nav-main{
+    float: right;
+    list-style-type: none;
+}
+.nav-item{
+    display: inline-block;
+    margin-top: 40px;
+}
+.nav-a{
+    text-decoration: none;
+    color:white;
+    padding: 10px;
+}
+.banner-img{
+    position:relative;
+    height: 100vh;
+    overflow: hidden;
+    background: url(images/billboard.jpg);
+    background-size: cover;
+}
+.main{
+    background-color:#0009 ;
+    opacity:0.7;
+}
+
+.banner-text{
+  padding-top: 820px;
+  overflow: hidden;  
+
+}
+
+.banner-header-text{
+    margin-left: 10px;
+    padding: 10px;
+    color:white;
+}
+
+.banner-style{
+    display:flex;
+    justify-content:space-between;
+    background-color:#0009;
+    padding-bottom:15px;
+}
+.banner-button{
+    color: white;
+    background-color: green;
+    margin: 10px 80px ;
+    padding: 7px;
+}
+
+.awsome-stuff{
+    margin-top: 50px;
+}
+.title{
+    text-align: center;
+}
+
+.stuff-list{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.stuff-sec{
+    padding: 50px;
+
+}
+.gallery-images{
+    display: flex;
+    margin-left: 70px;
+}
+
+.gallery-image{
+    padding: 14px;
+}
+
+.testi-header{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 30px;
+}
+
+.client-list{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.client-img{
+    padding: 50px 80px;
+}
+
+.client1-img{
+    border-radius: 50%;
+}
+
+.footer{
+    color: white;
+    background-color: black;
+    padding: 20px 0px;
+}
+
+.footer-title{
+    padding-bottom: 20px;
+}
+
+.footer-wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.footer-bottom{
+    padding: 90px
+}
+
+.footer-bottom a{
+    text-decoration: none;
+    color: white;
+}
+
+.footer-list{
+    list-style-type: none;
+}
+
+.footer-items{
+    padding-bottom: 8px;
+}
+
+.bottom{
+    text-align: center;
+}
